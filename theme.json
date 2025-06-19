@@ -2,7 +2,7 @@
   "id": "zen-live-calendar",
   "name": "Live Calendar",
   "description": "Brings the live calendar functionality from Arc to Zen, making it feel as native as possible.",
-  "homepage": "https://github.com/Anoms12/Zen-Tidy-Downloads",
+  "homepage": "https://github.com/Anoms12/Zen-Live-Calendar",
   "readme": "https://raw.githubusercontent.com/Anoms12/Zen-Live-Calendar/refs/heads/main/README.md",
   "image": "https://github.com/Anoms12/Zen-Live-Calendar/blob/main/image.png?raw=true",
   "js": true,
