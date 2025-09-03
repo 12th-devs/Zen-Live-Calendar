@@ -1,4 +1,4 @@
-# Zen-Live-Folders
+# Zen-Live-Calendar
 Brings the live folder functionality from Arc to Zen, making it feel as native as possible.
 
 
